@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Learning javascript though algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cafetiere/algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cafetiere/algorithms/issues"
+  },
+  "homepage": "https://github.com/cafetiere/algorithms#readme",
+  "dependencies": {
+    "eslint": "^8.29.0"
+  }
+}
